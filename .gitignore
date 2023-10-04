@@ -1,0 +1,5 @@
+old_dists/
+*.png
+*.gif
+*.spec
+build/
